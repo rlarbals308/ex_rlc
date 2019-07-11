@@ -1,0 +1,60 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-10-2019 at 11:50:45 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='EX2';
+ POST_TIME='Apr 15 2018 17:30:46';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP196_1U':;
+
+SECTION_NUMBER 1
+ '@EX2.SCHEMATIC1(SCH_1):INS109@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ex2.schematic1(sch_1):ins109@discrete.\cap np.normal\(chips)',
+ P_PATH='@ex2.schematic1(sch_1):page1_ins109@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@EX2.SCHEMATIC1(SCH_1):INS244@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@ex2.schematic1(sch_1):ins244@connector.\con2.normal\(chips)',
+ P_PATH='@ex2.schematic1(sch_1):page1_ins244@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SMDRES_100N':;
+
+SECTION_NUMBER 1
+ '@EX2.SCHEMATIC1(SCH_1):INS69@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@ex2.schematic1(sch_1):ins69@discrete.\inductor.normal\(chips)',
+ P_PATH='@ex2.schematic1(sch_1):page1_ins69@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_330':;
+
+SECTION_NUMBER 1
+ '@EX2.SCHEMATIC1(SCH_1):INS35@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ex2.schematic1(sch_1):ins35@discrete.\r.normal\(chips)',
+ P_PATH='@ex2.schematic1(sch_1):page1_ins35@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_330':;
+
+SECTION_NUMBER 1
+ '@EX2.SCHEMATIC1(SCH_1):INS147@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ex2.schematic1(sch_1):ins147@discrete.\r.normal\(chips)',
+ P_PATH='@ex2.schematic1(sch_1):page1_ins147@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
